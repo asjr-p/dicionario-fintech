@@ -59,3 +59,7 @@ Breve coletânea de termos, siglas, abreviações e afins relacionados a serviç
 - **Venture Capital (VC):**
 
 # Referências utilizadas
+
+[moov - terms dictionary](https://github.com/moov-io/terms-dictionary)
+[bobsguide - fintech glossary of terms](https://www.bobsguide.com/guide/news/2019/Jun/26/fintech-glossary-of-terms/)
+[fintechconnect - the fintech dictionary](https://www.fintechconnect.com/paytech/articles/the-fintech-dictionary)
