@@ -60,7 +60,7 @@ Breve coletânea de termos, siglas, abreviações e afins relacionados a serviç
 
 # Referências utilizadas
 
-[banco central do Brasil](https://www.bcb.gov.br/estabilidadefinanceira/pix)
+[banco central do brasil](https://www.bcb.gov.br/estabilidadefinanceira/pix)
 
 [bobsguide - fintech glossary of terms](https://www.bobsguide.com/guide/news/2019/Jun/26/fintech-glossary-of-terms/)
 
