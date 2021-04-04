@@ -9,7 +9,7 @@ Breve coletânea de termos, siglas, abreviações e afins relacionados a serviç
 - **Aceleradora:**
 - **Adquirente:**
 - **Algoritmo:**
-- **Autenticação de Dois Fatores (2FA):**
+- **Two-Factor Authentication (2FA):**
 - **Azure:**
 - **Business-to-Business (B2B):**
 - **Business-to-Business-to-Business (B2B2B):**
