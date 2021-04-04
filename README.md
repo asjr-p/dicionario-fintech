@@ -18,7 +18,7 @@ Breve coletânea de termos, siglas, abreviações e afins relacionados a serviç
 - **Banking as a Service (BaaS):**
 - **Bank Identification Number (BIN):**
 - **Bank Identifier Code (BIC):**
-- **Biometria:**
+- **Biometria:** Tecnologia que utiliza dados fisicamente únicos ao usuário (digital, reconhecimento facial, etc) como prova de identidade ao invés de utilizar senhas ou códigos afins.
 - **Capital Semente (Seed):**
 - **Cartão de Crédito:**
 - **Cartão Pré-Pago:**
