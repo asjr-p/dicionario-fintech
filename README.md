@@ -2,15 +2,15 @@
 
 Breve coletânea de termos, siglas, abreviações e afins relacionados a serviços financeiros e tecnologia financeira (fintech).
 
-- **Anti-Money Laundering (AML) / Prevenção à Lavagem de Dinheiro (PLD):**
-- **Application Programming Interface (API):**
-- **Assets Under Custody (AUC) / Assets Under Management (AUM) :**
-- **Amazon Web Services (AWS):**
+- **Anti-Money Laundering (AML) / Prevenção à Lavagem de Dinheiro (PLD):** Processo de prevenção, detecção e relato de lavagem de dinheiro, uma maneira ilegal de conferir falsa legitimidade valores de origem criminosa.
+- **Application Programming Interface (API):** Uma interface computacional que define interações entre sistemas, sendo exemplos de interações: requisições e seus tipos, como fazê-las, formatos de dados a serem utilizados, convenções a serem seguidas, etc.
+- **Assets Under Custody (AUC) / Assets Under Management (AUM) :** 
+- **Amazon Web Services (AWS):** Plataforma de computação em nuvem da Amazon.
 - **Aceleradora:**
 - **Adquirente:**
 - **Algoritmo:**
 - **Two-Factor Authentication (2FA):**
-- **Azure:**
+- **Azure:** Plataforma de computação em nuvem da Microsoft.
 - **Business-to-Business (B2B):**
 - **Business-to-Business-to-Business (B2B2B):**
 - **Business-to-Business-to-Consumer (B2B2C):**
@@ -26,12 +26,11 @@ Breve coletânea de termos, siglas, abreviações e afins relacionados a serviç
 - **Chargeback:**
 - **Código de Verificação do Cartão (CVC/CVV/CSC/CVD/CID):**
 - **Contestação de Compra:**
-- **Credit card authorization:**
 - **Disrupção:**
 - **Emissor / Banco Emissor::**
 - **Experiência do usuário (UX):**
 - **Fintech:**
-- **Google Cloud Platform (GCP):**
+- **Google Cloud Platform (GCP):** Plataforma de computação em nuvem do Google.
 - **Gross Merchandise Volume (GMV):**
 - **Gateway de Pagamentos:**
 - **IBAN:**
@@ -43,7 +42,8 @@ Breve coletânea de termos, siglas, abreviações e afins relacionados a serviç
 - **Onboarding:**
 - **Open Banking:**
 - **Peer-To-Peer (P2P):**
-- **PIX:**
+- **PIX:** Meio de pagamentos instantâneos criado pelo Banco Central do Brasil (BCB) em que os recursos são transferidos entre contas em poucos segundos, a qualquer hora ou dia.
+- **Pré-autorização no cartão de crédito:**
 - **Processamento em Lote:**
 - **Service Level Agreement (SLA):**
 - **Society for Worldwide Interbank Financial Telecommunication (SWIFT):**
@@ -60,8 +60,10 @@ Breve coletânea de termos, siglas, abreviações e afins relacionados a serviç
 
 # Referências utilizadas
 
-[moov - terms dictionary](https://github.com/moov-io/terms-dictionary)
+[banco central do Brasil](https://www.bcb.gov.br/estabilidadefinanceira/pix)
 
 [bobsguide - fintech glossary of terms](https://www.bobsguide.com/guide/news/2019/Jun/26/fintech-glossary-of-terms/)
 
 [fintechconnect - the fintech dictionary](https://www.fintechconnect.com/paytech/articles/the-fintech-dictionary)
+
+[moov - terms dictionary](https://github.com/moov-io/terms-dictionary)
