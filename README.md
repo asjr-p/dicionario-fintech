@@ -38,6 +38,7 @@ Breve coletânea de termos, siglas, abreviações e afins relacionados a serviç
 - **Investimento Anjo:**
 - **JavaScript Object Notation (JSON):**
 - **Know Your Customer/Client (KYC):**
+- **Liquidante / Banco liquidante:**
 - **Minimum Viable Product (MVP):**
 - **Onboarding:**
 - **Open Banking:**
