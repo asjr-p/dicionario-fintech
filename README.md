@@ -4,10 +4,10 @@ Breve coletânea de termos, siglas, abreviações e afins relacionados a serviç
 
 - **Anti-Money Laundering (AML) / Prevenção à Lavagem de Dinheiro (PLD):** Processo de prevenção, detecção e relato de lavagem de dinheiro, uma maneira ilegal de conferir falsa legitimidade valores de origem criminosa.
 - **Application Programming Interface (API):** Uma interface computacional que define interações entre sistemas, sendo exemplos de interações: requisições e seus tipos, como fazê-las, formatos de dados a serem utilizados, convenções a serem seguidas, etc.
-- **Assets Under Custody (AUC) / Assets Under Management (AUM) :** 
+- **Assets Under Custody (AUC) / Assets Under Management (AUM) :** valor total de dinheiro dos clientes que uma entidade está responsável.
 - **Amazon Web Services (AWS):** Plataforma de computação em nuvem da Amazon.
-- **Aceleradora:**
-- **Adquirente:**
+- **Aceleradora:** uma empresa que oferece suporte financeiro e de negócios para startups em estágio inicial.
+- **Adquirente:** 
 - **Algoritmo:**
 - **Two-Factor Authentication (2FA):**
 - **Azure:** Plataforma de computação em nuvem da Microsoft.
@@ -63,6 +63,8 @@ Breve coletânea de termos, siglas, abreviações e afins relacionados a serviç
 [banco central do brasil](https://www.bcb.gov.br/estabilidadefinanceira/pix)
 
 [bobsguide - fintech glossary of terms](https://www.bobsguide.com/guide/news/2019/Jun/26/fintech-glossary-of-terms/)
+
+[brex](https://www.brex.com/blog/what-is-startup-accelerator/)
 
 [fintechconnect - the fintech dictionary](https://www.fintechconnect.com/paytech/articles/the-fintech-dictionary)
 
